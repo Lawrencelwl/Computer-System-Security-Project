@@ -2,6 +2,6 @@
 
 The project is a completely web-based application, the main technologies and tools that are associated are:
 	
-●	HTML5, CSS, JavaScript, PHP
-●	SQL (MySQL)
-●	Web Server (Apache)
+1. HTML5, CSS, JavaScript, PHP
+2. SQL (MySQL)
+3. Web Server (Apache)
